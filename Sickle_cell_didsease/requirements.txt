@@ -1,4 +1,5 @@
 ultralyticsplus
+ultralytics
 opencv-python-headless
 plotly
 kaleido
