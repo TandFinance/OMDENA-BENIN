@@ -10,7 +10,7 @@ import glob as glob
 import pandas as pd
 import numpy as np
 from PIL import Image
-from ultralyticsplus import YOLO
+from ultralytics import YOLO
 from ultralyticsplus import render_result
 import base64
 #import plotly
