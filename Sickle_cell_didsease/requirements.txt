@@ -1,5 +1,6 @@
 ultralyticsplus
+opencv-python-headless
 plotly
 kaleido
-Pillow==9.5.0
+Pillow
 weasyprint
