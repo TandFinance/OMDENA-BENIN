@@ -1,5 +1,3 @@
-
-
 import streamlit as st
 from streamlit.elements import text
 from streamlit.components.v1 import iframe
@@ -10,8 +8,8 @@ import glob as glob
 import pandas as pd
 import numpy as np
 from PIL import Image
-#from ultralytics import YOLO
-import ultralyticsplus
+from ultralytics import YOLO
+#import ultralyticsplus
 from ultralyticsplus import render_result
 import base64
 #import plotly
