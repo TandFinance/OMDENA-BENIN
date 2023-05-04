@@ -1,5 +1,6 @@
 ultralyticsplus
 ultralytics
+ultralytics.yolo.engine.model
 opencv-python-headless
 plotly
 kaleido
